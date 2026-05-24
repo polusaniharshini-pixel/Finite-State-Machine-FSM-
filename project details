@@ -1,0 +1,31 @@
+# Finite State Machine (FSM)
+
+## Aim
+To understand and implement a Finite State Machine in digital electronics.
+
+## Introduction
+Finite State Machine (FSM) is a sequential circuit used to control digital systems. It changes states based on input signals and clock pulses.
+
+## Project Description
+This project demonstrates a simple Traffic Light Controller using FSM.
+
+### States
+- S0 → Red Light ON
+- S1 → Yellow Light ON
+- S2 → Green Light ON
+
+### State Flow
+Red → Yellow → Green → Red
+
+## Components Used
+- Logic Gates
+- Flip-Flops
+- Clock Pulse
+
+## Applications
+- Traffic light systems
+- Sequence detector
+- Digital counters
+
+## Conclusion
+Finite State Machine helps in designing sequential digital systems efficiently.
